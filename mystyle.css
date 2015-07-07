@@ -1,0 +1,46 @@
+body {
+	background-color:black;
+	text-align:center;
+	font-family: Verdana;
+	color: white
+}
+
+h1 {
+	color:red;
+}
+
+h3 {
+	color:#FF00FF;
+	text-shadow: 1px 1px white;
+}
+
+ul {
+	color: orange;
+	text-align: left;
+	margin: auto;
+	width: 10%;
+	border: 3px solid orange;
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+/* unvisited link */
+a:link {
+	color: aqua;
+}
+
+/* visited link */
+a:visited {
+	color: yellow;
+}
+
+/* mouse over link*/
+a:hover {
+	color: blue;
+}
+
+/* selected link */
+a:active {
+	color: green;
+}
